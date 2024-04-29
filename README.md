@@ -33,3 +33,12 @@ To run the development server, use the following command:
 ```bash
 npm run dev
 ```
+## Testing
+
+For testing purposes, you can use the following credentials:
+
+- **Email**: test@example.com
+- **Password**: test123
+
+Please note that these credentials are for testing only and should not be used in production environments.
+
